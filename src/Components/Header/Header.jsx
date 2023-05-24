@@ -11,7 +11,7 @@ const Header = () => {
       </div>
       <div className="flex items-center justify-between px-4 py-2 ">
         <Navbar />
-        <Image src="/logo.png" alt="logo" width={150} height={150} />
+        <Image src="public/logo.png" alt="logo" width={150} height={150} />
         <Iconos />
       </div>
       <hr className="border border-gray-200/50 mt-3" />
